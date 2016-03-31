@@ -1,0 +1,21 @@
+{
+  "name": "divabeauties",
+  "authors": [
+    "Parminder Klair <perminder.klair@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "get-stackable": "^1.3.0"
+  }
+}
