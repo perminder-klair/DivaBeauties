@@ -3,7 +3,7 @@
     <div class="top">
         <div id="logo">
           <span class="image avatar48"><img src="images/me.jpg" alt="" /></span>
-          <h1 id="title">Suman Ran</h1>
+          <h1 id="title">Suman Rani</h1>
           <p>Beautician</p>
         </div>
         <nav id="nav">
